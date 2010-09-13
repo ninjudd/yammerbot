@@ -11,7 +11,6 @@ To build a standalone executable:
 
     git clone git://github.com/ninjudd/yammerbot.git
     cd yammerbot
-    # hack away
     cake bin
 
 Then you can start yammerbot with:
