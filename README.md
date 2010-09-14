@@ -16,3 +16,7 @@ To build a standalone executable:
 Then you can start yammerbot with:
 
     ./yammerbot irc.yourcompany.com '#channel' -p="yourpassword"
+
+## Configuration
+
+If you don't want your irc messages to appear in your Yammer feed, you can authorize yammerbot with an alternate email address. Most companies permit a suffix like yourname+irc@yourcorp.com. Otherwise, ask a sysadmin nicely to set up an email alias for you and use that.
